@@ -30,3 +30,7 @@ I use a for loop alongside the range() function to loop through (0,5). With this
 # Calculator
 ***
 My calculator programme starts by opening and writing all information inputted like the total to a file. First the user is prompted to input the first number. There are failsafes throughout this programme which will catch errors from the user, e.g. inputting a letter instead of a number will cause an error. Then the user must input a second number. Once both are done, the user will be asked which operator they would like to use: "+" - addition, "-" subtraction, "/" divide, "*" multiplication. They must use the correct corrosponding key in order for the programme to run. Finally the total will print.
+
+# Alternative
+***
+This programme outputs 2 strings. One with indiviual characters with upper & lower case letters. One with individual words with upper & lower case letters. The user can input whatever sentance they like and the output will show 2 different variations of that sentance.
