@@ -38,3 +38,7 @@ This programme outputs 2 strings. One with indiviual characters with upper & low
 # Cafe
 ***
 In this programme I use dictionary's and lists to work out the amount of stock a cafe has and how much money it will cost. I use a for loop to work out the stock * by the price. Then it clearly prints out the cost with a £ sign.
+
+# Student Register
+***
+Here is a student register. Firstly, the user will be prompted to input exactly how many students will be taking a test. Once they have done this, they then need to input the students' ID number. If they selected 3 for example in how many students there are, they would have to input 3 student ID's. It takes the input and uses range() to keep it within that range whilst the for loop runs. When it has reached the number inputted it will stop. On the file it will print and show the students' ID number alongside a dotted line for them to sign upon.
