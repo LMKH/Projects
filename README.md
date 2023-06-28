@@ -34,3 +34,7 @@ My calculator programme starts by opening and writing all information inputted l
 # Alternative
 ***
 This programme outputs 2 strings. One with indiviual characters with upper & lower case letters. One with individual words with upper & lower case letters. The user can input whatever sentence they like and the output will show 2 different variations of that sentence.
+
+# Cafe
+***
+In this programme I use dictionary's and lists to work out the amount of stock a cafe has and how much money it will cost. I use a for loop to work out the stock * by the price. Then it clearly prints out the cost with a £ sign.
