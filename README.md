@@ -18,3 +18,7 @@ Here I have created a programme which calculates and displays a users input agai
 # Finance Calculator
 ***
 I first import math. The programme asks the user if they would like to calculate for an Investment or a Bond. If they choose Investment the programme will asks for inputs such as the amount they would like to deposit, what the intrest rate is, and how many years they plan on investing. Following on from these inputs, user is asked for either a 'simple' or 'compound' input. For simple: The deposit multiplied by the intrest rate / 100 then multiplied by the number of years. For compound: Math.pow is used in this calculation. (X raised by the power of Y) The deposit multiplied, intrest rate / 100 * years again. For Bond it is the same sort of questions, but with a different calculation.
+
+# While Loops
+***
+User inputs their number of choice, it will be stored and added up as the loop contiues to ask the user to input more numbers. Once the user is done adding numbers, they just have to input -1. This will exit the while loop and will calculate the average and the users number.
