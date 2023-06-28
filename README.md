@@ -1,3 +1,8 @@
+# Methods
+***
+.replace(), .upper(), .strip().
+Here I show my knowledge of using different methods to change strings. The examples are: using .replace(), I can replace all instances of "!" with a empty space, using .upper to convert a lower case string to uppercase, and I use range and -1 to print the string in reverse. The following part shows how using the .strip() method can easily take all unwanted characters out of a string easily.
+
 # Menu
 ***
 This programme simply asks the user to input 3 food dishes of their choice. It will then print out neatly and clearly what they have chosen. This can be used for when you need a simple choice menu.
