@@ -14,3 +14,7 @@ Programme that asks the user to input their name. If the name is too short for e
 # Logical Programming
 ***
 Here I have created a programme which calculates and displays a users input against a table of awards. This scenaro is for a triathalon. Whatever time the user inputs, it will have a corresponding award. I have used arithmetic operations to calculate the totals. Simply input your hypothetical time in minutes and it will print out what award you would/would not have recieved. This code can be changed and implimented for other uses. E.g. when you need to calculate amounts or times within certain criteria.
+
+# Finance Calculator
+***
+I first import math. The programme asks the user if they would like to calculate for an Investment or a Bond. If they choose Investment the programme will asks for inputs such as the amount they would like to deposit, what the intrest rate is, and how many years they plan on investing. Following on from these inputs, user is asked for either a 'simple' or 'compound' input. For simple: The deposit multiplied by the intrest rate / 100 then multiplied by the number of years. For compound: Math.pow is used in this calculation. (X raised by the power of y) The deposit multiplied, intrest rate / 100 * years again. For Bond it is the same sort of questions, but with a different calculation.
