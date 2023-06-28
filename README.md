@@ -26,3 +26,7 @@ User inputs their number of choice, it will be stored and added up as the loop c
 # For Loop
 ***
 I use a for loop alongside the range() function to loop through (0,5). With this I have the programme print out stars. Once it reaches the end of the range: 5, it stops and the outcome is a starry design on 5 lines with 5 stars each.
+
+# Calculator
+***
+My calculator programme starts by opening and writing all information inputted like the total to a file. First the user is prompted to input the first number. There are failsafes throughout this programme which will catch errors from the user, e.g. inputting a letter instead of a number will cause an error. Then the user must input a second number. Once both are done, the user will be asked which operator they would like to use: "+" - addition, "-" subtraction, "/" divide, "*" multiplication. They must use the correct corrosponding key in order for the programme to run. Finally the total will print.
