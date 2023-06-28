@@ -21,4 +21,4 @@ I first import math. The programme asks the user if they would like to calculate
 
 # While Loops
 ***
-User inputs their number of choice, it will be stored and added up as the loop contiues to ask the user to input more numbers. Once the user is done adding numbers, they just have to input -1. This will exit the while loop and will calculate the average and the users number.
+User inputs their number of choice, it will be stored and added up as the loop continues to ask the user to input more numbers. Once the user is done adding numbers, they just have to input -1. This will exit the while loop and will calculate the average and the users number.
