@@ -19,6 +19,10 @@ Here I have created a programme which calculates and displays a users input agai
 ***
 I first import math. The programme asks the user if they would like to calculate for an Investment or a Bond. If they choose Investment the programme will asks for inputs such as the amount they would like to deposit, what the intrest rate is, and how many years they plan on investing. Following on from these inputs, user is asked for either a 'simple' or 'compound' input. For simple: The deposit multiplied by the intrest rate / 100 then multiplied by the number of years. For compound: Math.pow is used in this calculation. (X raised by the power of Y) The deposit multiplied, intrest rate / 100 * years again. For Bond it is the same sort of questions, but with a different calculation.
 
-# While Loops
+# While Loop
 ***
 User inputs their number of choice, it will be stored and added up as the loop continues to ask the user to input more numbers. Once the user is done adding numbers, they just have to input -1. This will exit the while loop and will calculate the average and the users number.
+
+# For Loop
+***
+I use a for loop alongside the range() function to loop through (0,5). With this I have the programme print out stars. Once it reaches the end of the range: 5, it stops and the outcome is a starry design on 5 lines with 5 stars each.
