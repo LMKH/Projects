@@ -33,4 +33,4 @@ My calculator programme starts by opening and writing all information inputted l
 
 # Alternative
 ***
-This programme outputs 2 strings. One with indiviual characters with upper & lower case letters. One with individual words with upper & lower case letters. The user can input whatever sentance they like and the output will show 2 different variations of that sentance.
+This programme outputs 2 strings. One with indiviual characters with upper & lower case letters. One with individual words with upper & lower case letters. The user can input whatever sentence they like and the output will show 2 different variations of that sentence.
